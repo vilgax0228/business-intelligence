@@ -20,8 +20,6 @@ Um ambiente de BI oferece aos tomadores de decisão informações e conhecimento
 
 As metodologias de BI são frequentemente reduzidas a ferramentas eletrônicas para consulta (*querying*), visualização e relatórios, principalmente para fins de contabilidade e controle.
 
-Claro que o acesso rápido à informação é uma ferramenta inestimável para os tomadores de decisão.
+Claro que o acesso rápido a informação é uma ferramenta inestimável para os tomadores de decisão.
 
 Mas se desejarmos que as metodologias de BI sejam capazes de expressar todo o seu enorme potencial estratégico, devemos nos voltar para formas ativas de apoio à tomada de decisões, baseadas na adoção sistemática de modelos matemáticos capazes de transformar dados não apenas em *informação*, mas também em *conhecimento*, e conhecimento em *vantagem competitiva*.
-
-# Parte 1: Componentes do processo de tomada de decisão
